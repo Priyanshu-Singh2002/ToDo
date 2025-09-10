@@ -84,8 +84,4 @@
   cursor: pointer;
 }
 
-#btn1:active {
-  transform: scale(0.95);
-  background-color: rgb(62, 23, 177);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); 
-}
+c
