@@ -1,0 +1,24 @@
+.Card{
+    background-color: whitesmoke;
+    height: 32px;
+    width: 580px;
+    border: none;
+    border-radius: 8px;
+    display: flex;
+    justify-content:space-between;
+    padding:0 6px;
+    align-items: center;
+    color: purple;
+    margin: 6px 0 0 0 ;
+}
+
+.first span{
+    margin-left: 5px;
+}
+
+.list-button{
+    background-color: whitesmoke;
+    border: none;
+    color: black;
+    font-size: medium;
+}
